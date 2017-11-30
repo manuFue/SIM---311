@@ -1,0 +1,10 @@
+C:\Deckjazz\Proyectos\Final - SIM - Ejercicio311\Final SIM - Ejercicio311\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Deckjazz\Proyectos\Final - SIM - Ejercicio311\Final SIM - Ejercicio311\Entidades\bin\Debug\Entidades.dll
+C:\Deckjazz\Proyectos\Final - SIM - Ejercicio311\Final SIM - Ejercicio311\Entidades\bin\Debug\Entidades.pdb
+C:\Deckjazz\Proyectos\Final - SIM - Ejercicio311\Final SIM - Ejercicio311\Entidades\obj\Debug\Entidades.dll
+C:\Deckjazz\Proyectos\Final - SIM - Ejercicio311\Final SIM - Ejercicio311\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Deckjazz\Desktop\Final SIM - Ejercicio311\Entidades\bin\Debug\Entidades.dll
+C:\Users\Deckjazz\Desktop\Final SIM - Ejercicio311\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Deckjazz\Desktop\Final SIM - Ejercicio311\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Deckjazz\Desktop\Final SIM - Ejercicio311\Entidades\obj\Debug\Entidades.dll
+C:\Users\Deckjazz\Desktop\Final SIM - Ejercicio311\Entidades\obj\Debug\Entidades.pdb

@@ -1,0 +1,22 @@
+C:\Deckjazz\Proyectos\Final - SIM - Ejercicio311\Final SIM - Ejercicio311\Vistas\bin\Debug\Vistas.exe.config
+C:\Deckjazz\Proyectos\Final - SIM - Ejercicio311\Final SIM - Ejercicio311\Vistas\bin\Debug\Vistas.exe
+C:\Deckjazz\Proyectos\Final - SIM - Ejercicio311\Final SIM - Ejercicio311\Vistas\bin\Debug\Vistas.pdb
+C:\Deckjazz\Proyectos\Final - SIM - Ejercicio311\Final SIM - Ejercicio311\Vistas\obj\Debug\Vistas.csprojResolveAssemblyReference.cache
+C:\Deckjazz\Proyectos\Final - SIM - Ejercicio311\Final SIM - Ejercicio311\Vistas\obj\Debug\Vistas.Form1.resources
+C:\Deckjazz\Proyectos\Final - SIM - Ejercicio311\Final SIM - Ejercicio311\Vistas\obj\Debug\Vistas.Properties.Resources.resources
+C:\Deckjazz\Proyectos\Final - SIM - Ejercicio311\Final SIM - Ejercicio311\Vistas\obj\Debug\Vistas.csproj.GenerateResource.Cache
+C:\Deckjazz\Proyectos\Final - SIM - Ejercicio311\Final SIM - Ejercicio311\Vistas\obj\Debug\Vistas.exe
+C:\Deckjazz\Proyectos\Final - SIM - Ejercicio311\Final SIM - Ejercicio311\Vistas\obj\Debug\Vistas.pdb
+C:\Deckjazz\Proyectos\Final - SIM - Ejercicio311\Final SIM - Ejercicio311\Vistas\bin\Debug\Entidades.dll
+C:\Deckjazz\Proyectos\Final - SIM - Ejercicio311\Final SIM - Ejercicio311\Vistas\bin\Debug\Entidades.pdb
+C:\Users\Deckjazz\Desktop\Final SIM - Ejercicio311\Vistas\bin\Debug\Vistas.exe.config
+C:\Users\Deckjazz\Desktop\Final SIM - Ejercicio311\Vistas\bin\Debug\Vistas.exe
+C:\Users\Deckjazz\Desktop\Final SIM - Ejercicio311\Vistas\bin\Debug\Vistas.pdb
+C:\Users\Deckjazz\Desktop\Final SIM - Ejercicio311\Vistas\bin\Debug\Entidades.dll
+C:\Users\Deckjazz\Desktop\Final SIM - Ejercicio311\Vistas\bin\Debug\Entidades.pdb
+C:\Users\Deckjazz\Desktop\Final SIM - Ejercicio311\Vistas\obj\Debug\Vistas.csprojResolveAssemblyReference.cache
+C:\Users\Deckjazz\Desktop\Final SIM - Ejercicio311\Vistas\obj\Debug\Vistas.Form1.resources
+C:\Users\Deckjazz\Desktop\Final SIM - Ejercicio311\Vistas\obj\Debug\Vistas.Properties.Resources.resources
+C:\Users\Deckjazz\Desktop\Final SIM - Ejercicio311\Vistas\obj\Debug\Vistas.csproj.GenerateResource.Cache
+C:\Users\Deckjazz\Desktop\Final SIM - Ejercicio311\Vistas\obj\Debug\Vistas.exe
+C:\Users\Deckjazz\Desktop\Final SIM - Ejercicio311\Vistas\obj\Debug\Vistas.pdb
